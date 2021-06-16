@@ -95,6 +95,7 @@ By keeping a healthy mind, I ensure that I'm able to be as receptive as possible
 - Squat 3 plates.
 - Dumb bell press 50s again.
 - 10 pullups.
+- Pursue a martial art
 - etc
 
 
@@ -105,6 +106,9 @@ By keeping a healthy mind, I ensure that I'm able to be as receptive as possible
 - etc
 - Challenge regular assumptions that I make that are likely incorrect
 - Read a book a month
+- Clean up my desk of clutter before I do any work
+- Donate or recycle things I clearly do not need, avoid hoarding
+- Buy things that I actually will need, and buy at the correct level of quality (don't cheap out)
 
 
 ## Pillar 4: Access some "exclusive" status.
