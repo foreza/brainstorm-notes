@@ -32,12 +32,16 @@ Counter: Is there a specific budget that you have allocated for the role?
 - Will I be required to relocate for this role / when do you anticipate having to get back in the office? 
 - Is there any expectation that I'd be required to work nights/evenings?
 - How large and how distributed is the current ___ team?
+- How does the WFH situation look like
 
 ## Other Questions - Generic
 - How long has this particular role been open? 
 - About how much of my time each day would be spent on calls / meetings? (If it's a good %, weigh that carefully)
 - How are you liking X company so far?
--  
+- What is one thing you'd like to do for this team in the next few months?
+- What would the first few months look like?
+- How often are team meetings within our unit?
+- How is the current rapport with the engineering team
 
 
 ## Must Ask - Tech
