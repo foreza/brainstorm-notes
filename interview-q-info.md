@@ -41,7 +41,19 @@ Counter: Is there a specific budget that you have allocated for the role?
 - What is one thing you'd like to do for this team in the next few months?
 - What would the first few months look like?
 - How often are team meetings within our unit?
-- How is the current rapport with the engineering team
+- How is the current rapport with the engineering team?
+
+
+## Other Questions - Personal / "do you have any questions for me"
+- What's your favorite part about working for this company?
+- Has a customer or partner (for client facing people) ever caused enough problems where you had to take a call on whether you wanted to keep them as a customer or not? 
+- What would you say your current biggest challenge at work is, day to day?
+- If you could change anything about any of the current products
+- What would you say is a feature request you get a lot from the 
+- What's your process like for preparing responses to a customer's email/list of questions? 
+- Have you ever accidentially sent out something you shouldn't have (ie: some technical level of detail that was better off internal
+- Have you ever went waaay over and beyond for a customer? What was that for / was it worth it? 
+- 
 
 
 ## Must Ask - Tech
