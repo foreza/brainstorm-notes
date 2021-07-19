@@ -27,12 +27,13 @@ Counter: Is there a specific budget that you have allocated for the role?
 
 
 ## Must Ask - Generic
+- What's the rest of the interview process going to look like?
 - What does a day to day look like for this position? (Do you like what they say to this?)
 - Who will I be reporting to? (Is it a team lead? Or a sales guy?)
 - Will I be required to relocate for this role / when do you anticipate having to get back in the office? 
 - Is there any expectation that I'd be required to work nights/evenings?
 - How large and how distributed is the current ___ team?
-- How does the WFH situation look like
+- How does the WFH situation look like?
 
 ## Other Questions - Generic
 - How long has this particular role been open? 
